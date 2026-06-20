@@ -53,7 +53,7 @@ npm install
 ### Start the Application
 
 ```bash
-npm start
+node app.js
 ```
 
 ### Open in Browser
